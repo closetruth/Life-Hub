@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 基础配置
-JOURNAL_DIR="$HOME/Timestamp-Journal"
+JOURNAL_DIR="$HOME/Life-Hub/Timestamp-Mood"
 TIMEMOON=$(date "+%Y/%m")
 TIMESTAMP=$(date "+%Y-%m-%d %H:%M:%S")
 
